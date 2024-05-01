@@ -1,0 +1,4 @@
+a = "BESH TAHBETLI CHICHA LYOUM OR GHODWA §§§"
+amen = "le"
+while amen == "le" :
+    print(a)
